@@ -131,7 +131,7 @@
             // 
             // firstNameValue
             // 
-            this.firstNameValue.Location = new System.Drawing.Point(164, 55);
+            this.firstNameValue.Location = new System.Drawing.Point(163, 52);
             this.firstNameValue.Name = "firstNameValue";
             this.firstNameValue.Size = new System.Drawing.Size(206, 43);
             this.firstNameValue.TabIndex = 10;
@@ -149,7 +149,7 @@
             // 
             // lastNameValue
             // 
-            this.lastNameValue.Location = new System.Drawing.Point(164, 109);
+            this.lastNameValue.Location = new System.Drawing.Point(163, 106);
             this.lastNameValue.Name = "lastNameValue";
             this.lastNameValue.Size = new System.Drawing.Size(206, 43);
             this.lastNameValue.TabIndex = 12;
@@ -167,7 +167,7 @@
             // 
             // emailAddressValue
             // 
-            this.emailAddressValue.Location = new System.Drawing.Point(164, 162);
+            this.emailAddressValue.Location = new System.Drawing.Point(163, 159);
             this.emailAddressValue.Name = "emailAddressValue";
             this.emailAddressValue.Size = new System.Drawing.Size(206, 43);
             this.emailAddressValue.TabIndex = 14;
@@ -185,7 +185,7 @@
             // 
             // cellphoneNumberValue
             // 
-            this.cellphoneNumberValue.Location = new System.Drawing.Point(164, 214);
+            this.cellphoneNumberValue.Location = new System.Drawing.Point(163, 211);
             this.cellphoneNumberValue.Name = "cellphoneNumberValue";
             this.cellphoneNumberValue.Size = new System.Drawing.Size(206, 43);
             this.cellphoneNumberValue.TabIndex = 16;
